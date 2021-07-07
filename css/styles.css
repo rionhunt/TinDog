@@ -131,3 +131,16 @@ h3 {
 .pricing-column {
   padding: 3% 2%;
 }
+
+/* Footer*/
+#copyright {
+  color: white;
+  margin-top: 20px;
+  padding: 30px;
+}
+
+#last-div {
+  margin-top: 40px;
+  font-family: Montserrat;
+  color: black;
+}
